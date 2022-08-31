@@ -1,0 +1,129 @@
+
+body{
+    background-image: url(assets/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
+    
+
+
+
+
+
+.container{
+
+
+font-family: poppins;
+
+
+
+
+}
+
+
+.navbar {
+
+    display:  flex;
+    width: 1930px;
+   height: 80px;
+    
+    
+ 
+
+}
+
+
+
+.list {
+
+    display: flex;
+    list-style: none;
+    margin-left: 50px;
+    margin-top: -5px;
+    color: white;
+}
+
+
+.grow-list {
+
+    margin-left: 100px;
+ 
+} 
+
+.list-item{
+
+    margin: 30px;
+}
+
+
+
+.button-small {
+
+    position: relative;
+    left: 500px;
+    top: 30px;
+    color: white;
+    background-color: rgb(190, 32, 230);
+    border: none;
+    border-radius: 5px;
+    height: 24px;
+    width: 90px; }
+
+
+
+
+.hero{
+
+    position: relative;
+    left: 450px;
+    top: 100px;
+    color: white;
+
+}
+
+
+
+.hero-heading{
+
+    width: 700px;
+    font-size: 55px;
+}
+
+
+SPAN{
+
+    position: relative;
+     right: 35PX;
+}
+.hero-description{
+
+    position: relative;
+    bottom: 45px;
+    left: 35px;
+    font-size: 19px;
+    
+}
+
+.button-large {
+
+    position: relative;
+    left: 200px;
+    bottom: 40px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(190, 32, 230);
+    color: white;
+    border: none;
+    width: 160px;
+}
+
+.logo {
+
+    position: relative;
+    left: 100px;
+    top: 18px;
+    resize: both;
+    width: 125px;
+}
